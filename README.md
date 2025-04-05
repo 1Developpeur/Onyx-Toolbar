@@ -1,7 +1,6 @@
 # 🌑 Onyx Toolbar for [SeelenUI](https://github.com/eythaann/Seelen-UI)
 
-![image](https://github.com/user-attachments/assets/d355c230-2940-4a33-ab25-e12c0064a276)
-
+![image](https://github.com/user-attachments/assets/b46fae54-8b7a-4926-9332-aa0d667245c7)
 
 ## ✨ Overview
 
