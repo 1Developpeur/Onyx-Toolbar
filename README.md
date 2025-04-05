@@ -1,2 +1,41 @@
-# Onyx-Toolbar
-A sleek and modern toolbar theme designed specifically for the SeelenUI tool.
+# 🌑 Onyx Toolbar for [SeelenUI](https://github.com/eythaann/Seelen-UI)
+
+![image](https://github.com/user-attachments/assets/d355c230-2940-4a33-ab25-e12c0064a276)
+
+
+## ✨ Overview
+
+Onyx Toolbar is a sleek and modern toolbar theme designed specifically for the [SeelenUI](https://github.com/eythaann/Seelen-UI) tool. It enhances your user interface with a dark, elegant design, featuring smooth transitions and customizable elements, perfect for adding a touch of sophistication to your SeelenUI setup.
+
+## 🌟 Features
+
+- **🎨 Dark, Elegant Design**: A visually appealing dark theme that enhances the aesthetics of your SeelenUI toolbar.
+- **💨 Smooth Transitions**: Enjoy seamless transitions that provide a modern user experience.
+- **⚙️ Customizable Elements**: Tailor the toolbar to fit your needs with various customizable options.
+- **📱 Responsive Layout**: Ensures a consistent look and feel across different devices and screen sizes.
+
+## 🎥 Preview
+
+Check out the preview video to see Onyx Toolbar in action:
+
+https://github.com/user-attachments/assets/91bffba6-b0b1-4860-9784-b7c2a75cda6f
+
+## 🚀 Installation
+**Apply the Theme to SeelenUI**:
+   - Follow the [instructions for SeelenUI](https://github.com/eythaann/Seelen-UI/blob/master/documentation/themes.md) to apply the theme.
+
+## 🛠️ Customization
+
+- **Customization**: Modify the `Onyx_Toolbar.yaml` file to adjust the toolbar's appearance to your liking within SeelenUI.
+
+## 🤝 Contributing
+
+We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with ❤️ by [1Developpeur](https://github.com/1Developpeur)
