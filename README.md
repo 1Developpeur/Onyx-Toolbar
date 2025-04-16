@@ -12,6 +12,7 @@ Onyx Toolbar is a sleek and modern toolbar theme designed specifically for the [
 - **💨 Smooth Transitions**: Enjoy seamless transitions that provide a modern user experience.
 - **⚙️ Customizable Elements**: Tailor the toolbar to fit your needs with various customizable options.
 - **📱 Responsive Layout**: Ensures a consistent look and feel across different devices and screen sizes.
+- **🛠️ Theme Customization**: Easily customize the Onyx Toolbar theme from a user-friendly web interface, allowing for quick adjustments to colors, borders, and other settings without needing to edit code directly.
 
 ## 🎥 Preview
 
@@ -25,7 +26,7 @@ https://github.com/user-attachments/assets/91bffba6-b0b1-4860-9784-b7c2a75cda6f
 
 ## 🛠️ Customization
 
-- **Customization**: Modify the `Onyx_Toolbar.yaml` file to adjust the toolbar's appearance to your liking within SeelenUI.
+- **Customization**: Modify the `Onyx_Toolbar.yaml` file to adjust the toolbar's appearance to your liking within SeelenUI. You can also visit the [Onyx Toolbar Customizer](https://1developpeur.github.io/modern.html) for a user-friendly interface to customize your theme easily.
 
 ## 🤝 Contributing
 
