@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/91bffba6-b0b1-4860-9784-b7c2a75cda6f
 
 - **Customization**: Modify the `Onyx_Toolbar.yaml` file to adjust the toolbar's appearance to your liking within SeelenUI. You can also visit the [Onyx Toolbar Customizer](https://1developpeur.github.io/modern.html) for a user-friendly interface to customize your theme easily.
 - Check out the preview video to see the customization in action:
-
+[Preview Video](https://github.com/user-attachments/assets/2f9c393b-0a06-4820-aa66-e5fe070c6f9b)
 
 ## 🤝 Contributing
 
